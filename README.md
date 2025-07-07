@@ -38,39 +38,28 @@ Edit
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/aniruddha26/Spam-Ham.git
-   cd Spam-Ham
-Install the dependencies:
+    git clone https://github.com/aniruddha26/Spam-Ham.git
+    cd Spam-Ham
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the main script or explore the Jupyter notebooks:
+2. Install the dependencies:
+    pip install -r requirements.txt
 
-bash
-Copy
-Edit
-python spam_ham_classifier.py
-📊 Results
+3. Run the main script or explore the Jupyter notebooks
+
+## 📊 Results
 Performance metrics like Accuracy, Precision, Recall, and F1 Score are used for evaluation.
 
 Experimented with various feature extraction methods to compare performance.
 
-🛠️ Future Improvements
+## 🛠️ Future Improvements
 Add deep learning models (e.g., LSTM, BERT)
 
-Deploy as a web application
-
-Add Flask or Streamlit interface for message classification
-
-📚 References
+## 📚 References
 SMS Spam Collection Dataset - UCI ML Repo
 
 Scikit-learn, Gensim, NLTK libraries
 
-👨‍💻 Author
+## 👨‍💻 Author
 Aniruddha Alkari
 
 
